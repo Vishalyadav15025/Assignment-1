@@ -11,7 +11,7 @@ document.write("<h2>Welcome to vishal's page</h2>")
 document.write('<p>Detail-oriented cybersecurity professional dedicated to protecting organizations and the people they serve. Knowledgeable about NIST frameworks and able to implement security controls to ensure compliance with international regulations related to data protection. Expertise with identifying threats, risks, and vulnerabilities; security hardening; threat modeling; and incident escalation and response. Proficient in the use of Linux command line, SQL, and Python. Strong communication and problem-solving skills.</p>')
 
 
-//Using a for loop to create the list of things I like
+//Using a for loop to create the list of things I like 
 const footballers = ["Messi", "Ronaldinho", "Beckham", "Zlatan"];
 let names = "<ol>";
 for (let i = 0; i < footballers.length; i++) {
